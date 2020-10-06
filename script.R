@@ -1,4 +1,5 @@
-## Guia para uso e instalacao dos pacotes: ### Daqui: https://www.listendata.com/2019/06/create-infographics-with-r.html
+## Guia para uso e instalacao dos pacotes: 
+## Daqui: https://www.listendata.com/2019/06/create-infographics-with-r.html
 
 #pacotes
 library(readxl)
@@ -85,14 +86,12 @@ vereadores %>%
   count() %>%
   arrange(desc(n))
 
-
 partido <- vereadores %>%
   group_by(partido_atual) %>%
   count() %>%
   arrange(desc(n)) %>% 
   filter(n >1) %>% 
   droplevels()
-
 
 partido %>% 
   e_charts(partido_atual) %>% 
