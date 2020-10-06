@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600893705221.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3690948817",
+    "id" : "9DBB20C2",
+    "lastKnownWriteTime" : 1601825766,
+    "last_content_update" : 1601825766325,
+    "path" : "~/Documents/Research/github/infografico-vereadores/analise.R",
+    "project_path" : "analise.R",
+    "properties" : {
+        "cursorPosition" : "65,0",
+        "notebook_format" : "html_document",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

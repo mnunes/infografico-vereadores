@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601540239756.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2409059430",
+    "id" : "3685C5F5",
+    "lastKnownWriteTime" : 1601540758,
+    "last_content_update" : 1601540758801,
+    "path" : "~/Documents/Research/github/infografico-vereadores/preparacao.R",
+    "project_path" : "preparacao.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

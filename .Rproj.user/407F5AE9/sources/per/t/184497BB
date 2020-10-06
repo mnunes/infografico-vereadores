@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601930403507.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2148557522",
+    "id" : "184497BB",
+    "lastKnownWriteTime" : 1601930696,
+    "last_content_update" : 1601930696135,
+    "path" : "~/Documents/Research/github/infografico-vereadores/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "cursorPosition" : "23,17",
+        "scrollLine" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
